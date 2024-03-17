@@ -1,0 +1,48 @@
+.texts{
+    font-family:'Roboto',sans-serif;
+    text-align: center;
+}
+.p-texts{
+    font-family:'Roboto',sans-serif;
+    text-align: center;
+    font-size: large;
+    margin-top: 15px;
+}
+.man-pic {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.computer-pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro{
+    background-color: #6E07F3;
+    color: white;
+    padding: 20px;
+}
+#greeting-text{
+    text-align:center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+#intro-text{
+padding: 50px;
+font-size: large;
+}
+.card-title{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+ul.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.card-block{
+    padding-bottom: 50px;
+}
